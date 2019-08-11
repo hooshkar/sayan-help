@@ -1,0 +1,99 @@
+body {
+    margin:20px;
+	direction: rtl;
+	font-family: "B Nazanin" ,"Tahoma", "Times New Roman";
+}
+
+h1 {
+	font-size: 18px;
+    color: maroon;
+	background:url('hb.png') no-repeat scroll right bottom transparent;
+	margin-top: 10px;
+}
+
+h2 {
+	font-size: 16px;
+	color: maroon;
+	background:url('hb.png') no-repeat scroll right bottom transparent;
+	margin-top: 10px;
+}
+br{
+   font-size: 18px;
+}
+
+p {
+	text-align: justify;
+	max-width : 700px;
+	font-size: 16px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+hr { 
+    color: #C3C3C3;
+	height:0;
+	border-bottom-style: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 1px;
+}
+
+.Icon{
+	width: 30px;
+	height: 30px;
+	margin-left: 10px;
+	float: right;
+}
+
+.NormalPic{
+	max-width : 700px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.LargPic{
+	width : 100%;
+	max-width : 700px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.BestPic{
+	width : 80%;
+	max-width : 450px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.MediumPic{
+	width : 60%;
+	max-width : 450px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.SmallPic{
+	width : 40%;
+	max-width : 250px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.TinyPic{
+	max-width : 130px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.PicInText{
+	max-width : 100px;
+	max-height : 30px;
+	float: center;
+	margin: 0px 3px;
+}
+
+.PicBeginText{
+	max-width : 450px;
+	float: center;
+	margin: 0px 3px;
+}
