@@ -17,6 +17,12 @@ h2 {
 	background:url('hb.png') no-repeat scroll right bottom transparent;
 	margin-top: 10px;
 }
+
+strong.title{
+	margin-left: 10px;
+	color: maroon;
+}
+
 br{
    font-size: 18px;
 }
