@@ -35,6 +35,20 @@ p {
 	margin-bottom: 10px;
 }
 
+.Point{
+    max-width: 660px;
+    background: #eeb0b0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.Info{
+    max-width: 660px;
+    background: #b7b5b5;
+    padding: 20px;
+    border-radius: 10px;
+}
+
 hr { 
     color: #C3C3C3;
 	height:0;
